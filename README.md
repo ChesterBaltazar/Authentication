@@ -8,13 +8,13 @@ Features:
 
 <h2>Register: </h2>
 <p>Registering Using Postman</p>
-<img width="1024" height="497" alt="image" src="https://github.com/user-attachments/assets/5066cbe4-6f48-4306-8ffe-9e8e236f5dce" />
+<img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/5066cbe4-6f48-4306-8ffe-9e8e236f5dce" />
 
 <p>Registering succesfully</p>
 
 <h2>Database: </h2>
 <p>Saves User and Hashed Password to Mongo</p>
-![20251210_121811](https://github.com/user-attachments/assets/977734c6-ce4d-4693-ad16-00fa583cc9b6)
+<img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/0acecbcd-44bf-4a9f-9263-c3b0ed5ad284" />
 
 <br>
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/15b6d722-5927-4bde-8ac4-9366c76484b4" />
