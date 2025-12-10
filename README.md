@@ -8,7 +8,7 @@ Features:
 
 <h2>Register: </h2>
 <p>Registering Using Postman</p>
-![20251210_121808](https://github.com/user-attachments/assets/3abb950e-d370-46a9-8a0b-9649234bb252)
+<img width="1024" height="497" alt="image" src="https://github.com/user-attachments/assets/5066cbe4-6f48-4306-8ffe-9e8e236f5dce" />
 
 <p>Registering succesfully</p>
 
