@@ -9,7 +9,7 @@ Features:
 <h3>Register: </h3>
 <p>Registering using Postman</p>
 {
-    "name": "Diaz",
+    "name": "Diaz", <br>
     "password": "diazpassword123"
 }
 
@@ -17,6 +17,7 @@ Features:
 {
     "message": "User saved to MongoDB Atlas!"
 }
+<br>
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/15b6d722-5927-4bde-8ac4-9366c76484b4" />
 
 <h3></h3>
