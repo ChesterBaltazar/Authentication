@@ -7,19 +7,25 @@ Features:
 * Displays success/error messages under each form.
 
 <h3>Register: </h3>
-<p>Registering using Postman</p>
+<p>Registering Using Postman</p>
 {<br>
     "name": "Diaz", <br>
-    "password": "diazpassword123"
+    "password": "diazpassword123" <br>
 }
 
 <h3>Database: </h3>
+<p>Saves User and Hashed Password to Mongo</p>
 {<br>
     "message": "User saved to MongoDB Atlas!" <br>
 }
 <br>
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/15b6d722-5927-4bde-8ac4-9366c76484b4" />
+<br>
 
-<h3></h3>
+<h3>Login</h3>
+<p>Authenticates the User and Hashed Password to Login the User</p>
+{<br>
+    "message": "Login successful" <br>
+}
 
 
