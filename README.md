@@ -8,16 +8,14 @@ Features:
 
 <h2>Register: </h2>
 <p>Registering Using Postman</p>
-{<br>
-    "name": "Diaz", <br>
-    "password": "diazpassword123" <br>
-}
+![20251210_121808](https://github.com/user-attachments/assets/3abb950e-d370-46a9-8a0b-9649234bb252)
+
+<p>Registering succesfully</p>
 
 <h2>Database: </h2>
 <p>Saves User and Hashed Password to Mongo</p>
-{<br>
-    "message": "User saved to MongoDB Atlas!" <br>
-}
+![20251210_121811](https://github.com/user-attachments/assets/977734c6-ce4d-4693-ad16-00fa583cc9b6)
+
 <br>
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/15b6d722-5927-4bde-8ac4-9366c76484b4" />
 <br>
