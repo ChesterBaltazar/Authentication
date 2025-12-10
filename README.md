@@ -22,7 +22,7 @@ Features:
 
 <h2>Login: </h2>
 <p>Authenticates the User and Hashed Password to Login the User</p><br>
-![20251210_121754](https://github.com/user-attachments/assets/25214e95-b2ec-4a4b-9048-437ed5d522bb)
+<img width="1024" height="497" alt="image" src="https://github.com/user-attachments/assets/ae08f3e2-39fe-452d-b1a9-86c26f394a48" /> <br>
 
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/952b74ee-20b3-40d9-a7db-903e963c85c2" />
 
