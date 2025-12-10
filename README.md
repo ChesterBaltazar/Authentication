@@ -20,9 +20,11 @@ Features:
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/15b6d722-5927-4bde-8ac4-9366c76484b4" />
 <br>
 
-<h2>Login</h2>
-<p>Authenticates the User and Hashed Password to Login the User</p>
-![20251210_121759](https://github.com/user-attachments/assets/7ad06bf3-8827-4146-bf51-eb7629ef110f)
+<h2>Login: </h2>
+<p>Authenticates the User and Hashed Password to Login the User</p><br>
+![20251210_121754](https://github.com/user-attachments/assets/25214e95-b2ec-4a4b-9048-437ed5d522bb)
+
+<img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/952b74ee-20b3-40d9-a7db-903e963c85c2" />
 
 
 
