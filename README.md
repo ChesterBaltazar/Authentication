@@ -6,13 +6,13 @@ Features:
 * Sends JSON requests to your backend endpoints.
 * Displays success/error messages under each form.
 
-<h2>Register: </h2>
-<p>Registering Using Postman</p>
+# 📝 Register:
+### Registering Using Postman
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/5066cbe4-6f48-4306-8ffe-9e8e236f5dce" />
 
 <p>Registering Succesfully then the Next Step was to Send that Data to Database.</p>
 
-# 💿 Database: 
+# 📦 Database: 
 <p>Saves User and Hashed Password to MongoDB</p>
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/0acecbcd-44bf-4a9f-9263-c3b0ed5ad284" />
 
