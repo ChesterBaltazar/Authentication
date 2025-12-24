@@ -12,7 +12,7 @@ Features:
 
 <p>Registering Succesfully then the Next Step was to Send that Data to Database.</p>
 
-<h2>Database: </h2>
+# 💿 Database: 
 <p>Saves User and Hashed Password to MongoDB</p>
 <img width="572" height="274" alt="image" src="https://github.com/user-attachments/assets/0acecbcd-44bf-4a9f-9263-c3b0ed5ad284" />
 
