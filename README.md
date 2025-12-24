@@ -1,4 +1,4 @@
-<h1>Authentication</h1>
+# 🔐 Authentication
 <p>this project is authentication and saves user and hashed password to database(MongoDB) and gets that hashed password from the</p><p>database and checks if the user and password are the same and Allows the user to Login</p>
 
 Features:
